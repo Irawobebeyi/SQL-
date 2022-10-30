@@ -1,6 +1,7 @@
 # Unit 9 Homework: Employee Database
 
-## Background
+## Background<img width="1385" alt="ERRD_screenshot" src="https://user-images.githubusercontent.com/107362585/198894268-eb83a60d-7bce-4131-9f6a-44e1a0cf2208.png">
+
 
 It’s a beautiful spring day, and it’s been two weeks since you were hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remains of the database of employees from that period are six CSV files.
 
@@ -106,3 +107,4 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 
 © 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
+<img width="1385" alt="ERRD_screenshot" src="https://user-images.githubusercontent.com/107362585/198894273-0d773232-5937-4aa2-bf42-946b2b08fc47.png">
